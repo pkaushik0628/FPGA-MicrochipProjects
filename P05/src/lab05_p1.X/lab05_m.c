@@ -1,30 +1,16 @@
 /* 
  * File:   lab05_m.c
- * Author: pazerao
- *
  * Created on October 4, 2022, 8:28 AM
  */
 
  #include "ece212.h"
 
-
-/*
- * 
- */
 int main() {
     
     ece212_setup();
     while(1){
-       Hypnotizer(); 
-        
-        
-        
-    }
-    
-    
-    
-    
-
+       Hypnotizer();        
+    }    
     return (EXIT_SUCCESS);
 }
 
