@@ -1,6 +1,4 @@
 /*
- * File:   ece212.h
- * Author: Matthew Watkins
  *
  * Header to support ECE 212 use of PIC32 microcontroller with
  * LafBot Breakout Board
